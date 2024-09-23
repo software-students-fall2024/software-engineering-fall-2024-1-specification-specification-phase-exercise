@@ -19,18 +19,18 @@ To make your inventory access and organization easier, this product meant for bu
 
 ## User Requirements
 
-As a lab worker, I want to sign up so I can organize and keep track of my lab equipment and map in the lab storage.
-As a business owner, I want to sign up so I can keep track of the business's inventory in the storage warehouse.
-As a grocery store/ supermarket owner, I want to sign up so I can map out the locations of the items I am selling.
+As a lab worker, I want to sign up so I can organize and keep track of my lab equipment and map in the lab storage. <br>
+As a business owner, I want to sign up so I can keep track of the business's inventory in the storage warehouse. <br>
+As a grocery store/ supermarket owner, I want to sign up so I can map out the locations of the items I am selling. <br>
 
-For All:
-    * Estimation of Effort: M
-    * Acceptance Criteria:
-        1. Customer username is captured and saved.
-        2. Customer password is captured and saved.
-        3. Customer email is capture and saved.
-        4. Invalid usernames, emails, and password will be rejected.
-        5. Customer signs in immediately after registration.
+For All: <br>
+    * Estimation of Effort: M <br>
+    * Acceptance Criteria: <br>
+        1. Customer username is captured and saved. <br>
+        2. Customer password is captured and saved. <br>
+        3. Customer email is capture and saved. <br>
+        4. Invalid usernames, emails, and password will be rejected. <br>
+        5. Customer signs in immediately after registration. <br>
 
 ## Activity Diagrams
 
