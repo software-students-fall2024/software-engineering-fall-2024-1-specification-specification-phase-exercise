@@ -37,11 +37,11 @@ For All: <br>
 
 As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment:
 
-![image](./pictures/UML.png)
+![image](./pictures/ActivityDia.png)
 
 As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse:
 
-![image](./pictures/UML.png)
+![image](./pictures/ActivityDia.png)
 
 ## Clickable Prototype
 
