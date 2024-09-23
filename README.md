@@ -24,8 +24,8 @@ As a business owner, I want to sign up so I can keep track of the business's inv
 As a grocery store/ supermarket owner, I want to sign up so I can map out the locations of the items I am selling. <br>
 
 For All: <br>
-    Estimation of Effort: M <br>
-    Acceptance Criteria: <br>
+    - Estimation of Effort: M <br>
+    - Acceptance Criteria: <br>
         1. Customer username is captured and saved. <br>
         2. Customer password is captured and saved. <br>
         3. Customer email is capture and saved. <br>
