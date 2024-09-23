@@ -24,13 +24,13 @@ As a business owner, I want to sign up so I can keep track of the business's inv
 As a grocery store/ supermarket owner, I want to sign up so I can map out the locations of the items I am selling. <br>
 
 For All: <br>
-    - Estimation of Effort: M <br>
-    - Acceptance Criteria: <br>
-        1. Customer username is captured and saved. <br>
-        2. Customer password is captured and saved. <br>
-        3. Customer email is capture and saved. <br>
-        4. Invalid usernames, emails, and password will be rejected. <br>
-        5. Customer signs in immediately after registration. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Estimation of Effort: M <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Acceptance Criteria: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Customer username is captured and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Customer password is captured and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Customer email is capture and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Invalid usernames, emails, and password will be rejected. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Customer signs in immediately after registration. <br>
 
 ## Activity Diagrams
 
