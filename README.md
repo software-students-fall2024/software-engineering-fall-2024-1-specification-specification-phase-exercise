@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 William Xie (wx2114, seeyeh on Github)
-David Jiminez (djr8812)
+David Jimenez (djr8812)
 Melanie Zhang (mz3138)
 Nick Burwell (nsb8225)
 
@@ -27,7 +27,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 6. As a student, I want to keep track of my homework/readings in a to-do list so that I know what has been done and still needs to be done.
 7. As a student, I want to see the syllabi/schedule of any class at NYU (past and present) so that I can see if a class is one that I want to take now or in the future.
 8. As a student, I want to access all of my grades and feedback in a centralized platform so I can easily keep track of my progress in all my classes.
-9. As a student, I want to access all announcements from professors in an organized place so that I can stay on top of any changes and communications.
+9. As a student, I want to access all announcements from professors or clubs in an organized place so that I can stay on top of any changes and communications.
+10. As a club leader, I want to have a central platform where I can manage meetings and post announcements for all to see.
 
 ## Activity Diagrams
 
