@@ -29,7 +29,7 @@ Need: He uasually check out the news and fancial information of the company he i
 Desire: Therefore, he need a source provider simplify his experience of getting the financial information. Maybe a place where provides all these information in the single approach without back and forth, like a app. 
 
 ## Product Vision Statement
-clean, reasonable, and credible financial information provider
+a software that gives live easy to digest news and stock charts for people new to the finance world
 
 ## User Requirements
 ### 1
@@ -49,3 +49,5 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
+
