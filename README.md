@@ -9,6 +9,14 @@ Our target customers are individuals who feel overwhelmed by financial news and 
 
 ## Team members
 
+Mambi Chen
+https://github.com/MambiChen
+
+reyhan 
+https://github.com/reyhanquayum
+
+Yu Zhang
+https://github.com/yz7669
 
 
 ## Stakeholders Interview
