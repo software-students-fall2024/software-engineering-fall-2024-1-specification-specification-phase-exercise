@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Lucia Song](https://github.com/lys7942) <br>
+[Wenli Shi](https://github.com/WenliShi2332) <br>
+[Chelsea Hodgson](https://github.com/Chelsea-Hodgson) <br>
+[Yeshni Savadatti](https://github.com/yeshnii) <br>
 
 ## Stakeholders
 
@@ -12,11 +15,22 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To make your inventory access and organization easier, this product meant for business owners and large organizations in need of a system of organization for their inventory. 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a lab worker, I want to sign up so I can organize and keep track of my lab equipment and map in the lab storage. <br>
+As a business owner, I want to sign up so I can keep track of the business's inventory in the storage warehouse. <br>
+As a grocery store/ supermarket owner, I want to sign up so I can map out the locations of the items I am selling. <br>
+
+For All: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Estimation of Effort: M <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Acceptance Criteria: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Customer username is captured and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Customer password is captured and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Customer email is capture and saved. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Invalid usernames, emails, and password will be rejected. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Customer signs in immediately after registration. <br>
 
 ## Activity Diagrams
 
