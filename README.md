@@ -26,6 +26,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 5. As a student, I want to discuss class topics with my peers and ask my professor/TAs questions so that I can get help with things I don’t understand.
 6. As a student, I want to keep track of my homework/readings in a to-do list so that I know what has been done and still needs to be done.
 7. As a student, I want to see the syllabi/schedule of any class at NYU (past and present) so that I can see if a class is one that I want to take now or in the future.
+8. As a student, I want to access all of my grades and feedback in a centralized platform so I can easily keep track of my progress in all my classes.
+9. As a student, I want to access all announcements from professors in an organized place so that I can stay on top of any changes and communications.
 
 ## Activity Diagrams
 
