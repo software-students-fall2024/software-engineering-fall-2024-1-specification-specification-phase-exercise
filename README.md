@@ -22,7 +22,7 @@ To make your inventory access and organization easier, this product meant for bu
 As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment. <br>
 As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse. <br>
 As a grocery store/ supermarket owner, I want to sign up so that I can see the locations of the items I am selling. <br>
-As a lab user, I want to sign up so that I can see where all the equipment is and where to return it.
+As a lab user, I want to sign up so that I can see where all the equipment is and where to return it. <br>
 
 For All: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Estimation of Effort: M <br>
