@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Lucia Song](https://github.com/lys7942)
-[Wenli Shi](https://github.com/WenliShi2332)
-[Chelsea Hodgson](https://github.com/Chelsea-Hodgson)
-[Yeshni Savadatti](https://github.com/yeshnii)
+[Lucia Song](https://github.com/lys7942) <br>
+[Wenli Shi](https://github.com/WenliShi2332) <br>
+[Chelsea Hodgson](https://github.com/Chelsea-Hodgson) <br>
+[Yeshni Savadatti](https://github.com/yeshnii) <br>
 
 ## Stakeholders
 
