@@ -5,6 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Alex Ruan](https://github.com/axruan)
+- [Leo Bernarbezheng](https://github.com/leonaurdo)
+- [David Lai](https://github.com/danonymouse)
+- [Angela Zhang](https://github.com/angelazzh)
+- [Jess Kim](https://github.com/jessiekim0)
 
 ## Stakeholders
 
