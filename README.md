@@ -37,9 +37,9 @@ We interviwed our lonely friend Tiffany Li for our second interview
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our pet app connects pet owners, pet adopters, and pet lovers through a tailored matchmaking service and playdate platform, fostering meaningful relationships between people and pets while supporting rehoming efforts based on compatibility and location.
 
-## User Requirements
+## User Requirement
 
 See instructions. Delete this line and place a list of your User Stories here.
 
