@@ -26,7 +26,7 @@ Need: He uasually check out the news and fancial information of the company he i
 
 Desire: Therefore, he need a source provider simplify his experience of getting the financial information. Maybe a place where provides all these information in the single approach without back and forth, like a app. 
 
-Interview 2
+Interviewee 2
 
 Goal: She has a husabnd who works in the Finance industry and she wants to catch up with all the news and lingos. Her goal is to learn what the news actually says live and what it actually infers or means.
 
@@ -49,6 +49,12 @@ a software that gives live easy to digest news and stock charts for people new t
 
 ### 4 New Parent
 "As a new parent, I need easy-to-understand investment options that are relevant to me, so I can save for my child's future without feeling overwhelmed."
+
+### 5 Wife of an Investment Manager
+"As a wife, I want to learn what the news actually means sometimes. Looking at some of those words and the lingo just hurts my eyes. I need something simple, and easy to understand."
+
+### 6 Middle Schooler
+"As an 6th grader, I want to be like my dad and see how I can invest like him. I want to understand the news and learn instead of just sitting in a class all day and trying to read things only my dad understands"
 
 where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
 
