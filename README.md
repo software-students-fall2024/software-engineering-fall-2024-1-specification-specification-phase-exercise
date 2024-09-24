@@ -72,8 +72,7 @@ a software that gives live easy to digest news and stock charts for people new t
 where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Activity Diagram for CS Student User Story](./UML2.png)
 
 ## Wireframe Diagram
 See instructions. Delete this line and place images of your Wireframe diagrams here.
