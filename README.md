@@ -26,6 +26,14 @@ Need: He uasually check out the news and fancial information of the company he i
 
 Desire: Therefore, he need a source provider simplify his experience of getting the financial information. Maybe a place where provides all these information in the single approach without back and forth, like a app. 
 
+Interview 2
+
+Goal: She has a husabnd who works in the Finance industry and she wants to catch up with all the news and lingos. Her goal is to learn what the news actually says live and what it actually infers or means.
+
+Need: She attempted to use Bloomberg news or The Economist, but she always got lost when unfamiliar terminlogies are being mentioned. She also cannot connect how the news will play out in the near future and which independent financial decisions she has to make.
+
+Desire: Her desire is a less overwhleming news source that dumbs down the information and simplfies it so that people without a financial background can understand what is being said, what is going to happen, and how to act. She wants to learn the logic behind the industry to talk to her husband about and have a meaningful conversation with him.
+
 ## Product Vision Statement
 a software that gives live easy to digest news and stock charts for people new to the finance world
 
