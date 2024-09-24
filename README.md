@@ -12,7 +12,28 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+We interviewed our friend James Huang who owns a dog for our first stakeholder interview.
+
+**Goals/Needs:**
+- Easily find people looking for pets to adopt
+- Have access to a communiuty of pet owners in your local area
+- Expand his social circle after moving to a new area
+
+**Problems/Frustrations:**
+- Moved into the city to a new apartment that won't let him keep his dog
+- Having trouble finding someone who watns to adopt
+
+We interviwed our lonely friend Tiffany Li for our second interview
+
+**Goals/Needs:**
+- Want to find a suitable partner for her
+- Wants to find a suitable partner for her pet also
+- Also open to making new friends
+
+**Problems/Frustrations:**
+- Recently broke up with her boyfriend and wants to mingle romantically again
+- Looking for companionship
+
 
 ## Product Vision Statement
 
