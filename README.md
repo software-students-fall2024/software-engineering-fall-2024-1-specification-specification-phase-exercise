@@ -39,7 +39,7 @@ The interviewed stakeholder are Michael Salvati, Justin Engstler,Jackson Reynold
 
 ## Product Vision Statement
 
-To make your inventory access and organization easier, this product meant for business owners and large organizations in need of a system of organization for their inventory. 
+Our Lab Inventory Management App empowers NYU Physics Lab faculty (or other Labs) to efficiently track, manage, and maintain lab equipment, ensuring streamlined operations, real-time equipment status updates, and simplified borrowing and returning processes, reducing errors and improving resource availability. 
 
 ## User Requirements
 
