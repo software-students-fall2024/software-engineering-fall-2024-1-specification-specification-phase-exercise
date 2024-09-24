@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- [Alex Ruan](www.github.com/axruan)
+- [Alex Ruan](https://github.com/axruan)
 
 ## Stakeholders
 
