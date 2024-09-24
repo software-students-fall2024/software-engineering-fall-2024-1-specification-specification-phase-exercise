@@ -2,20 +2,22 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
+Product Name: (BrainBase, StudyMax, ClassMeet?)
+
 ## Team members
 
 William Xie (wx2114, seeyeh on Github)
-David Jimenez (djr8812)
+David Jimenez (drj8812)
 Melanie Zhang (mz3138)
 Nick Burwell (nsb8225)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Our Target End-Users are college students.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our product is a general centralized study and class management app meant to make it simple for students to go about their daily needs, offering an alternative to platforms such as Brightspace, Moodle, etc.
 
 ## User Requirements
 
