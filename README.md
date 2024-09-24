@@ -46,7 +46,7 @@ where [type of user], [some goal] and [some reason] are replaced with appropriat
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Activity Diagram for CS Student User Story](images/UML_1.png)
 
 ## Clickable Prototype
 
