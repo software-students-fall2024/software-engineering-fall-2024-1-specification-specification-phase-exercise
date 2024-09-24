@@ -3,8 +3,9 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Ideation
-We aim to build a clean and user-friendly financial information platform that provides accurate, government-sourced data. Without the distraction of misleading news, our platform will help users make informed and reliable financial investment decisions. Our target customers are individuals focused on making sound financial investments.
-Our target customers are individuals who feel overwhelmed by financial news and struggle to focus on key market data. Often, they incur losses by following subjective reports. We provide accurate, objective market information to help them make informed and rational investment decisions.
+We are building a clean, user-friendly financial information platform that delivers accurate, government-sourced data. Instead of overwhelming users with complex news, our platform provides simplified, real-time financial graphs and user-friendly news to inspire people who are unfamiliar with finance but want to learn or start investing.
+
+Our target audience includes beginners who feel overwhelmed by complicated financial news and find it difficult to focus on key market data. These individuals often incur losses by following subjective reports. We offer accurate, objective market information, empowering them to make informed, rational investment decisions based on knowledge and sound reasoning.
 
 
 ## Team members
