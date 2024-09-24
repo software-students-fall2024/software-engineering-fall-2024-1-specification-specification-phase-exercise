@@ -62,9 +62,9 @@ For All: <br>
 
 ## Activity Diagrams
 
-As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment:
+As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment: <br>
 
-As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse:
+As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse: <br>
 
 ![image](./pictures/ActivityDia.png)
 
