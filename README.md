@@ -70,6 +70,10 @@ As a business owner, I want to sign up so that I can keep track of the business'
 
 ![image](./pictures/ActivityDia.png)
 
+## Wireframe
+
+[Link to wireframe](https://www.figma.com/design/QEetpy9bVJGKQUyZnR5W4h/Prototype?node-id=0-1&t=jqwkaVXmyoVqckUi-1)
+
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to Prototype](https://www.figma.com/proto/QEetpy9bVJGKQUyZnR5W4h/Prototype?node-id=1-9&node-type=canvas&t=bXmfWZBpulxOZfaT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A9)
