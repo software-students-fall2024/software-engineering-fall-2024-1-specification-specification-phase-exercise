@@ -10,8 +10,32 @@ A little exercise to get started with the specification phase of the software de
 [Yeshni Savadatti](https://github.com/yeshnii) <br>
 
 ## Stakeholders
+The interviewed stakeholder are Michael Salvati, Justin Engstler,Jackson Reynolds, and Landen Messner.(NYU Physic Lab Faculty Members)
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+ ### Features of the Lab Inventory Management App:
+
+1. **Easy Equipment Location Tracking**: Users can quickly find the location of lab equipment. For example, they can see that "Item A is on shelf B in room C," making it easy to locate items in the lab.
+
+2. **Item Addition Interface**: Users can easily add new items to the inventory through a dedicated 'Add Items' page. They can input the item’s name, room, shelf location, upload an image(optional) for reference, and specify the stock amount. This intuitive interface streamlines the process of updating inventory and ensures accurate item tracking.
+
+3. **Real-time Equipment Status Monitoring**: Users can track the current status of lab equipment through the app. For example, they can see that "Item A has 3 available, 4 in use, and 2 broken," allowing for better resource planning.
+
+4. **User and Admin Management**: The admin of an organization can invite other users to join the lab system. Once invited, all users can sync, update, and access real-time information about lab equipment. For example, Lab Manager A can invite Lab Technician B to join the same organization (e.g., NYU Lab Equipment System).
+
+5. **Automated Checking Lists for Borrowing and Returning Equipment**: Each user has a personalized checking list where they log the quantity of items borrowed and update the item’s status to “in use.” The system automatically generates a new checking list for the user. When items need to be returned, the checking list helps users quickly and efficiently return the items to their correct locations.
+6. **Inventory Alerts for Damaged Items**: When any item is marked as Broken, the app alerts lab administrators, making it easier to address the issue and manage repairs or replacements in a timely manner.
+
+### Possible Problems and Pain Points:
+
+1. **Disorganized equipment and supply management**: Lab staff may struggle to keep track of which equipment is in use, available, or whether they have enough supplies in stock.
+
+2. **Unclear borrowing and return processes**: Staff may forget to return borrowed equipment or may not know if equipment was returned to the correct location.
+
+3. **Unclear equipment status**: It can be difficult to know whether equipment is operational, needs repair, or should be replaced due to lack of timely updates.
+
+4. **Time-consuming inventory checks**: Manually checking inventory can be time-consuming and prone to errors.
+
+5. **Difficulty accessing information about items**: Lab staff may need to spend time finding equipment manuals, operational guides, or other relevant information.
 
 ## Product Vision Statement
 
