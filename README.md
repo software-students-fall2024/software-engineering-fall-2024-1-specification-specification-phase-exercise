@@ -41,7 +41,21 @@ Our pet app connects pet owners, pet adopters, and pet lovers through a tailored
 
 ## User Requirement
 
-See instructions. Delete this line and place a list of your User Stories here.
+Date
+1. As a single pet owner who wants to date, I want to meet other pet owners in my area that I’m compatible with so that I can form a short-term or long-term relationship.
+2. As a single pet owner who wants to date, I want to go on dog dates with my match so that we can bond and see we are a good fit.
+3. As a single pet owner who wants to date, I want my pet to meet a compatible “parent” so that I know my future partner will like my pet and vice versa.
+Friends 
+4. As a lonely pet owner who wants to make friends, I want to meet other pet owners so that I can expand my social circle.
+5. As a pet owner who wants his/her pet to meet friends, I want to help socialize my traumatized pet so that the pet will be well-adjusted.
+Adopt
+6. As an animal lover who wants to adopt, I want a platform that will help me find pets looking for new homes so that I can provide a sanctuary for the pet.
+7. As an animal lover who wants to adopt, I want to find a cute pet to adopt, so I can avoid traveling to adoption centers.
+8. As a lonely pet owner who wants to adopt, I want to take in pets who were mistreated so that I can provide them a better life.
+Rehome
+9. As a lonely pet owner who wants to rehome, I want to find the right person to adopt my pet, so my pet can connect with a new owner.
+10. As a pet owner who wants to rehome, I want to find someone who is willing to adopt my pet’s new babies since it gave birth to too many that our family can’t support. 
+
 
 ## Activity Diagrams
 
