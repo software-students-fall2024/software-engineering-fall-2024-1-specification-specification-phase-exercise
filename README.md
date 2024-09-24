@@ -42,7 +42,10 @@ The interviewed stakeholder are Michael Salvati, Justin Engstler,Jackson Reynold
 Our Lab Inventory Management App empowers NYU Physics Lab faculty (or other Labs) to efficiently track, manage, and maintain lab equipment, ensuring streamlined operations, real-time equipment status updates, and simplified borrowing and returning processes, reducing errors and improving resource availability. 
 
 ## User Requirements
-
+As a scientist, I want a system to keep track of equipment so that I can start my labs with less delays. <br>
+As a lab assistant, I want to know when equipment is removed or broken so that I can let my manager know and we can order new ones.  <br>
+As a lab technician, I want a digital system to checkout equipment so that I can reserve my equipment ahead of time for my team.  <br>
+As a grad student, I want a system to see what equipment I’d have access to so that I can design experiments accordingly.  <br>
 As a lab worker, I want to sign up so that I can organize and keep track of my lab equipment. <br>
 As a business owner, I want to sign up so that I can keep track of the business's inventory in the storage warehouse. <br>
 As a grocery store/ supermarket owner, I want to sign up so that I can see the locations of the items I am selling. <br>
