@@ -56,6 +56,18 @@ a software that gives live easy to digest news and stock charts for people new t
 ### 6 Middle Schooler
 "As an 6th grader, I want to be like my dad and see how I can invest like him. I want to understand the news and learn instead of just sitting in a class all day and trying to read things only my dad understands"
 
+### 7 Art Student
+"As an Gallatin NYU student, I dropped my first economics and finance class the moment the moment I heard the WORDS! Aggregate Revenue? Cash Waterfall? Eurobonds? I need something simple and easy to get my news from. It would be helpful if they also taught me what some of those words meant at the same time."
+
+### 8 Math College Student
+"As a Courant student, I want to develop my abilities in the financial sector. This might end up in me becoming a quant soon, but I just need something simple and concise and not too complicated to read while heading to class everyday. I don't want to use anything like Bloombeg since it feels too overwhelming and the lexicon is too much for me to learn."
+
+### 9 Elderly
+"Me being at the end of my life, I want to make more financially responsible decisions for my grandson using my money. I've been using the news like I used to, but with new things coming in, things feel overwhleming. I need something easy to learn for these poor old eyes."
+
+### 10 Computer Science Student
+"I want to try getting into investments and probably even coding my own algorithm. There are a lot of news suppliers out there, but the moment I read "Egypt Plans Eurobond Sales After Cash Infusion Averts Crisis", I dropped my phone and I needed something that I can understand. I don't want to constantly use chatgpt to explain to me what's going on" 
+
 where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
 
 ## Activity Diagrams
