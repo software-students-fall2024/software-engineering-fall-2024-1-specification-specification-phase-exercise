@@ -15,6 +15,8 @@ Nick Burwell (nsb8225)
 
 Our Target End-Users are college students.
 
+NYU Senior 1: The most important aspect of a study/class management app for them is for it to offer an easy way to visualize their schedule (including classes, assignments, exams, etc.) all in one place. They wished Brightspace was easier to use on the go and liked that it reminded you about assignments, but wished it offered a calendar view for them. They believe Brightspace is missing a place/way to easily connect with classmates and/or TAs to ask questions or discuss things went over in class. Finally, they would like if enrolling for courses was in the same app as where you view your classes and assignments, not in a separate app.
+
 ## Product Vision Statement
 
 Our product is a general centralized study and class management app meant to make it simple for students to go about their daily needs, offering an alternative to platforms such as Brightspace, Moodle, etc.
