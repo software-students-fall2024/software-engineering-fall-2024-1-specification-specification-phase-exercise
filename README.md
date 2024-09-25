@@ -71,6 +71,12 @@ As a club leader, I want to have a central platform where I can manage meetings 
 
 As a student, I want to view my class times, assignments, and club events/activities all in one calendar view automatically as they are assigned so that I can stay organized with all my deadlines.
 
+![Activity Diagram 1](activityDiagram1.png)
+
+As a student, I want to see in an organized manner the readings I have for a particular lecture, alongside the scheduled topics and homework so that I can find all my readings easily.
+
+As a student, I want a syllabus tab for each of my class's homepages so that I can have easy and quick access to my syllabus as the semester progresses 
+
 ## Clickable Prototype
 
 https://www.figma.com/design/NJdgNtX4NIFOI2PkgeRKCq/Wireframe-Diagram---Wahoo?node-id=0-1&t=YuI2FdlJvQrAZUMQ-1
