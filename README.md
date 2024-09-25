@@ -27,11 +27,20 @@
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The goal of our app is to create customized playlists for users to maximize productivity and enjoy and discover music simultaneously.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a new user, I want to create a login and password so that my profile data can be saved
+2. As a new user, I want to submit preliminary information about my music preferences to optimize the quality  of recommendations I receive
+3. As a busy student and music lover, I want to receive recommended generated playlists based on my time commitment, type of tasks at hand, my mood, and my music preferences
+4. As a user, I want to be able to see what I’m currently listening to and track my to-do list
+5. As a recurring user, I want to save work sessions that I like for future reference
+6. As a recurring user, I want to log in and out
+7. As a recurring user, I want to view my profile information
+8. As a recurring user, I want to view my library of saved work sessions
+9. As a social user, I want to search for my friends' usernames and add them as a friend
+10. As a social user, I want to be able to view friends’ libraries
 
 ## Activity Diagrams
 
