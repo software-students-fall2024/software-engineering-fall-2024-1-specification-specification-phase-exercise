@@ -73,9 +73,19 @@ As a student, I want to view my class times, assignments, and club events/activi
 
 ![Activity Diagram 1](activityDiagram1.png)
 
+As a student, I want to access additional tutoring resources so that I can get help with difficult class topics.
+
 As a student, I want to see in an organized manner the readings I have for a particular lecture, alongside the scheduled topics and homework so that I can find all my readings easily.
 
-As a student, I want a syllabus tab for each of my class's homepages so that I can have easy and quick access to my syllabus as the semester progresses 
+As a student, I want a syllabus tab for each of my class's homepages so that I can have easy and quick access to my syllabus as the semester progresses.
+
+![Activity Diagram 2](activityDiagram2.png)
+
+As a student, I want to discuss class topics with my peers and ask my professor/TAs questions so that I can get help with things I don’t understand.
+
+As a student, I want to access all announcements from professors or clubs in an organized place so that I can stay on top of any changes and communications.
+
+As a club leader, I want to have a central platform where I can manage meetings and post announcements for all to see.
 
 ## Clickable Prototype
 
