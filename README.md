@@ -78,7 +78,5 @@ where [type of user], [some goal] and [some reason] are replaced with appropriat
 See instructions. Delete this line and place images of your Wireframe diagrams here.
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
-
+https://www.figma.com/proto/DYKkAYenxmDuGHJB9SNolS/Project1_FHUB?node-id=3-4&node-type=canvas&t=nVhfpG4kYgWXQJpB-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
