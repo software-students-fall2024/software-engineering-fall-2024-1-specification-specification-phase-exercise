@@ -79,6 +79,16 @@ As a student, I want to access all announcements from professors or clubs in an 
 
 As a club leader, I want to have a central platform where I can manage meetings and post announcements for all to see.
 
+![Activity Diagram 3](activityDiagram3.png)
+
+As a student, I want to view my class times, assignments, and club events/activities all in one calendar view automatically as they are assigned so that I can stay organized with all my deadlines.
+
+As a student, I want to access a lecture’s assigned readings/topics/homework on a calendar with the rest of my deadlines, so that I can easily switch between different classes during a study session and still see what I have to accomplish across classes by a particular date.
+
+As a student, I want to keep track of my homework/readings in a to-do list so that I know what has been done and still needs to be done.
+
+As a student, I want to be able to easily be able to schedule office hours/ meetings with professors of TA’s so that I don’t have to go through the process of emailing them and them potentially not seeing my email. 
+
 ## Clickable Prototype
 
 https://www.figma.com/design/NJdgNtX4NIFOI2PkgeRKCq/Wireframe-Diagram---Wahoo?node-id=0-1&t=YuI2FdlJvQrAZUMQ-1
