@@ -63,14 +63,6 @@ Our product is a general centralized study and class management app meant to mak
 
 ## Activity Diagrams
 
-![ClubLeader_UseCase](https://github.com/user-attachments/assets/cf3f7aa8-596a-4f53-a091-c1510e8f0ff0)
-
-As a club leader, I want to have a central platform where I can manage meetings and post announcements for all to see.
-
-![Student_UseCase](https://github.com/user-attachments/assets/ca0ca2ec-320d-46ef-8368-bda7a6c16847)
-
-As a student, I want to view my class times, assignments, and club events/activities all in one calendar view automatically as they are assigned so that I can stay organized with all my deadlines.
-
 ![Activity Diagram 1](activityDiagram1.png)
 
 As a student, I want to access additional tutoring resources so that I can get help with difficult class topics.
