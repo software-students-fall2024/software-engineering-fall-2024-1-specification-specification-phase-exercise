@@ -6,6 +6,7 @@ William Xie (wx2114, seeyeh on Github)
 David Jimenez (drj8812)
 Melanie Zhang (mz3138)
 Nick Burwell (nsb8225)
+May Zhou (zz4206)
 
 ## Stakeholders
 
